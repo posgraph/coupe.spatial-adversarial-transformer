@@ -29,7 +29,9 @@ Spatial transformer network [\[2\]](#references) is a learnable module that expl
 In this project, we use spatial transformer network as a generator. Generator generates enhanced image by translating and scaling an input image. And we use Residual network [\[3\]](#references) as our discriminator. We use 34 layer residual network which pre-trained on ImageNet dataset.
 
 ## License ##
-This software is being made available under the repository's License. Please check the [LICENSE](LICENSE) file for details.  
+This software is being made available under the terms in the [LICENSE](LICENSE) file.
+
+Any exemptions to these terms requires a license from the Pohang University of Science and Technology.
 
 ## Contact ##
 Eunbin Hong (hong5827 [at] postech [dot] ac [dot] kr)
